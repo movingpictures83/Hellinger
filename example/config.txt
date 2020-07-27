@@ -1,0 +1,2 @@
+Prefix plugins/Hellinger/example
+Plugin Hellinger inputfile parameters.txt outputfile output.transformed.csv
